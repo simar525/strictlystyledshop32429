@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://campaigns.loyalbee.io/$1"
+ }
+  ]
+}
